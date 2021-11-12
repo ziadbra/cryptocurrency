@@ -1,0 +1,76 @@
+.titre-wrapper {
+  padding: 50px;
+
+}
+
+.home {
+  background: url("../images/slider3.jpg") no-repeat center center fixed; 
+  height: 100vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo {
+
+}
+.titre {
+  color: #e1ba55;
+  font-size: 80px;
+  text-align: center;
+}
+
+.sub-titre {
+  color: #ad8317;
+  font-size: large;
+  text-align: center;
+  font-style: italic;
+  
+}
+
+.text {
+  color: white;
+  max-width: 800px;
+  padding: 20px;
+  font-size: larger;
+  margin: auto;
+  text-align: center;
+}
+
+.section-list {
+  background: linear-gradient(
+    90deg, rgba(2,0,36,1) 0%, rgb(2 19 11) 35%, rgb(225 186 85) 100%);
+  padding: 40px;
+}
+.list {
+  width: 1200px;
+  margin: auto;
+  color: whitesmoke;
+
+}
+
+
+.from-section {
+  padding: 40px;
+  background: url("../images/slider1.jpg") no-repeat center center fixed; 
+  height: 100vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.my-form {
+  max-width: 1200px;
+  margin: auto;
+}
+
+label {
+  color: white;
+}
+
+.icon {
+  margin: 10px;
+}
